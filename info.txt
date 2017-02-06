@@ -1,0 +1,4 @@
+1. created a html file containing 4 paragraphs
+2. created a css file containing the styling for all the paragraphs
+3. created a js file. It contains a function which will be called on load of the page. Select all the paragrphs using the
+jquery selector. Added event listener on all the paragraphs and performed the operations.
